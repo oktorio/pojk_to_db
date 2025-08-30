@@ -1,0 +1,583 @@
+[
+  {
+    "id": 1,
+    "regulation_id": 1,
+    "pasal": 1,
+    "ayat": null,
+    "text": "Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud \ndengan: \n1. \nBank Umum yang selanjutnya disebut Bank adalah bank \nyang melaksanakan kegiatan usaha secara konvensional \natau melaksanakan kegiatan usaha berdasarkan prinsip \nsyariah, yang dalam kegiatannya memberikan jasa dalam \nlalu lintas pembayaran, termasuk kantor cabang dari bank \nyang berkedudukan di luar negeri dan unit usaha syariah. \n2. \nLembaga Jasa Keuangan yang selanjutnya disingkat LJK \nadalah lembaga yang melaksanakan kegiatan di sektor \nperbankan, pasar modal, perasuransian, dana pensiun, \nmodal \nventura, \nlembaga \nkeuangan \nmikro, \nlembaga \npembiayaan, dan lembaga jasa keuangan lainnya. \n3. \nTeknologi Informasi yang selanjutnya disingkat TI adalah \nsuatu \nteknik \nuntuk \nmengumpulkan, \nmenyiapkan, \nmenyimpan, memproses, mengumumkan, menganalisis, \ndan/atau menyebarkan informasi. \n4. \nLayanan Digital adalah produk Bank dalam bentuk layanan \nyang diberikan oleh Bank dengan pemanfaatan TI melalui \nmedia elektronik untuk memberikan akses bagi nasabah \ndan/atau calon nasabah terkait produk Bank maupun \nproduk dan/atau layanan dari mitra Bank, serta dapat \ndilakukan secara mandiri oleh nasabah dan/atau calon \nnasabah. \n \n \n \n \n\n- 3 -  \n \nBAB II \nLAYANAN DIGITAL OLEH BANK \n \nBagian Kesatu  \nCakupan dan Persyaratan Layanan Digital"
+  },
+  {
+    "id": 2,
+    "regulation_id": 1,
+    "pasal": 2,
+    "ayat": "1",
+    "text": "Layanan Digital diselenggarakan oleh: \na. \nBank; atau \nb. \nBank dengan mitra Bank berdasarkan perjanjian kerja \nsama."
+  },
+  {
+    "id": 3,
+    "regulation_id": 1,
+    "pasal": 2,
+    "ayat": "2",
+    "text": "Layanan Digital sebagaimana dimaksud pada ayat (1) \ndilaksanakan \nsesuai \ndengan \nkegiatan \nusaha \nBank \nsebagaimana diatur dalam ketentuan peraturan perundangundangan."
+  },
+  {
+    "id": 4,
+    "regulation_id": 1,
+    "pasal": 3,
+    "ayat": null,
+    "text": "Bank yang menyelenggarakan Layanan Digital sebagaimana \ndimaksud dalam Pasal 2 harus memiliki infrastruktur TI dan \nmanajemen \npengelolaan \ninfrastruktur \nTI \nyang \nmampu \nmendukung penyelenggaraan Layanan Digital secara optimal."
+  },
+  {
+    "id": 5,
+    "regulation_id": 1,
+    "pasal": 4,
+    "ayat": null,
+    "text": "Layanan perbankan yang memanfaatkan TI untuk tujuan \npemberian informasi yang bersifat publik dan komunikasi dengan \nnasabah dan/atau calon nasabah tanpa adanya transaksi \ndan/atau akses terhadap rekening nasabah bukan merupakan \nproduk Bank sebagaimana dimaksud dalam Peraturan Otoritas \nJasa Keuangan mengenai penyelenggaraan produk bank umum.   \n \nBagian Kedua \nPenyelenggaraan Layanan Digital"
+  },
+  {
+    "id": 6,
+    "regulation_id": 1,
+    "pasal": 5,
+    "ayat": "1",
+    "text": "Dalam melakukan hubungan usaha dengan nasabah atau \ncalon nasabah melalui Layanan Digital, Bank wajib \nmelakukan: \na. \nidentifikasi nasabah atau calon nasabah; dan \nb. \nverifikasi atas: \n1. \nkebenaran serta kesesuaian data, informasi, dan \ndokumen pendukung yang telah diberikan oleh \nnasabah atau calon nasabah; dan \n2. \nkebenaran serta kesesuaian profil pemberi data, \ninformasi, dan dokumen pendukung dengan profil \nnasabah atau calon nasabah untuk memastikan \nbahwa pemberi data, informasi, dan dokumen \nmerupakan nasabah atau calon nasabah yang \nbersangkutan."
+  },
+  {
+    "id": 7,
+    "regulation_id": 1,
+    "pasal": 5,
+    "ayat": "2",
+    "text": "Bank melakukan identifikasi nasabah atau calon nasabah \nsebagaimana dimaksud pada ayat (1) huruf a melalui \npermintaan data, informasi, dan dokumen pendukung \nnasabah atau calon nasabah sesuai dengan Peraturan \nOtoritas Jasa Keuangan mengenai penerapan program anti \npencucian uang, pencegahan pendanaan terorisme, dan \npencegahan \npendanaan \nproliferasi \nsenjata \npemusnah \nmassal di sektor jasa keuangan. \n\n- 4 -"
+  },
+  {
+    "id": 8,
+    "regulation_id": 1,
+    "pasal": 5,
+    "ayat": "3",
+    "text": "Bank melakukan verifikasi atas data, informasi, dan \ndokumen \npendukung \nnasabah \natau \ncalon \nnasabah \nsebagaimana dimaksud pada ayat (1) huruf b melalui \nmekanisme: \na. \npertemuan tatap muka secara langsung; \nb. \npertemuan tatap muka secara elektronik; dan/atau \nc. \ntidak tatap muka secara elektronik."
+  },
+  {
+    "id": 9,
+    "regulation_id": 1,
+    "pasal": 5,
+    "ayat": "4",
+    "text": "Verifikasi melalui mekanisme pertemuan tatap muka secara \nelektronik sebagaimana dimaksud pada ayat (3) huruf b, \ndilakukan dengan cara dan persyaratan sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai penerapan \nprogram anti pencucian uang, pencegahan pendanaan \nterorisme, dan pencegahan pendanaan proliferasi senjata \npemusnah massal di sektor jasa keuangan."
+  },
+  {
+    "id": 10,
+    "regulation_id": 1,
+    "pasal": 5,
+    "ayat": "5",
+    "text": "Verifikasi melalui mekanisme tidak tatap muka secara \nelektronik sebagaimana dimaksud pada ayat (3) huruf c, \ndilakukan dengan persyaratan sesuai dengan Peraturan \nOtoritas Jasa Keuangan mengenai penerapan program anti \npencucian uang, pencegahan pendanaan terorisme, dan \npencegahan \npendanaan \nproliferasi \nsenjata \npemusnah \nmassal di sektor jasa keuangan."
+  },
+  {
+    "id": 11,
+    "regulation_id": 1,
+    "pasal": 5,
+    "ayat": "6",
+    "text": "Dalam melakukan verifikasi sebagaimana dimaksud pada \nayat (3), Bank wajib menerapkan paling sedikit 2 (dua) faktor \nautentikasi (two factor authentication)."
+  },
+  {
+    "id": 12,
+    "regulation_id": 1,
+    "pasal": 5,
+    "ayat": "7",
+    "text": "Bank wajib menerapkan faktor ciri khas anda (something you \nare) sebagai salah satu dari 2 (dua) faktor autentikasi (two \nfactor authentication) dalam hal Bank melakukan verifikasi \nmelalui mekanisme: \na. \npertemuan tatap muka secara elektronik; dan \nb. \ntidak tatap muka secara elektronik."
+  },
+  {
+    "id": 13,
+    "regulation_id": 1,
+    "pasal": 6,
+    "ayat": "1",
+    "text": "Dalam melakukan kewajiban sebagaimana dimaksud dalam \nPasal 5 ayat (1), Bank dapat memanfaatkan data dan/atau \ninformasi milik lembaga atau instansi yang berwenang \ndan/atau sumber lain, yang sudah memiliki hubungan kerja \nsama dengan Bank."
+  },
+  {
+    "id": 14,
+    "regulation_id": 1,
+    "pasal": 6,
+    "ayat": "2",
+    "text": "Bank harus memastikan kesiapan infrastruktur pendukung \ndalam pemanfaatan data dan/atau informasi sebagaimana \ndimaksud pada ayat (1)."
+  },
+  {
+    "id": 15,
+    "regulation_id": 1,
+    "pasal": 7,
+    "ayat": "1",
+    "text": "Bank dalam melakukan verifikasi melalui mekanisme \npertemuan tatap muka secara elektronik sebagaimana \ndimaksud dalam Pasal 5 ayat (4) atau melalui mekanisme \ntidak tatap muka secara elektronik sebagaimana dimaksud \ndalam Pasal 5 ayat (5) dapat memanfaatkan penggunaan \nperangkat lunak dan/atau perangkat keras milik pihak \nketiga."
+  },
+  {
+    "id": 16,
+    "regulation_id": 1,
+    "pasal": 7,
+    "ayat": "2",
+    "text": "Dalam \nhal \nBank \nmelakukan \nverifikasi \nsebagaimana \ndimaksud pada ayat (1), Bank wajib memenuhi tata cara \nkerja sama dengan pihak ketiga sesuai dengan Peraturan \nOtoritas Jasa Keuangan mengenai penerapan program anti \npencucian uang, pencegahan pendanaan terorisme, dan \npencegahan \npendanaan \nproliferasi \nsenjata \npemusnah \nmassal di sektor jasa keuangan. \n\n- 5 -"
+  },
+  {
+    "id": 17,
+    "regulation_id": 1,
+    "pasal": 8,
+    "ayat": null,
+    "text": "Bank wajib memastikan kesesuaian atas data dan/atau \ninformasi yang dimanfaatkan dalam penyelenggaraan Layanan \nDigital dengan sumber data dan/atau informasi."
+  },
+  {
+    "id": 18,
+    "regulation_id": 1,
+    "pasal": 9,
+    "ayat": "1",
+    "text": "Bank wajib menerapkan paling sedikit 2 (dua) faktor \nautentikasi (two factor authentication) untuk verifikasi \ntransaksi keuangan."
+  },
+  {
+    "id": 19,
+    "regulation_id": 1,
+    "pasal": 9,
+    "ayat": "2",
+    "text": "Penerapan \n\n(dua) \nfaktor \nautentikasi \n(two \nfactor \nauthentication) sebagaimana dimaksud pada ayat (1) dapat \ndilakukan untuk setiap transaksi keuangan secara individu \nmaupun dengan pembatasan tertentu sesuai dengan \nanalisis risiko yang dilakukan Bank serta persetujuan \nnasabah."
+  },
+  {
+    "id": 20,
+    "regulation_id": 1,
+    "pasal": 10,
+    "ayat": null,
+    "text": "Bank \ndapat \nmelibatkan \nnasabah \ndalam \nmelakukan \npengembangan Layanan Digital."
+  },
+  {
+    "id": 21,
+    "regulation_id": 1,
+    "pasal": 11,
+    "ayat": null,
+    "text": "Layanan Digital terkait dengan sistem pembayaran yang \nperizinan sepenuhnya diatur oleh otoritas sistem pembayaran di \nIndonesia ditetapkan menjadi produk Bank dasar. \n \nBagian Ketiga \nTata Cara Perizinan Layanan Digital"
+  },
+  {
+    "id": 22,
+    "regulation_id": 1,
+    "pasal": 12,
+    "ayat": null,
+    "text": "Dalam hal Layanan Digital memenuhi kriteria produk baru, Bank \nmengikuti mekanisme perizinan sesuai dengan Peraturan \nOtoritas Jasa Keuangan mengenai penyelenggaraan produk bank \numum."
+  },
+  {
+    "id": 23,
+    "regulation_id": 1,
+    "pasal": 13,
+    "ayat": "1",
+    "text": "Bank mengajukan permohonan izin atas penyelenggaraan \nLayanan Digital yang memenuhi kriteria produk baru \nsebagaimana \ndimaksud \ndalam \nPasal \n\ndengan \nmenyampaikan dokumen Permohonan Izin Penyelenggaraan \nLayanan Digital paling sedikit tercantum dalam Lampiran I \nyang merupakan bagian tidak terpisahkan dari Peraturan \nOtoritas Jasa Keuangan ini."
+  },
+  {
+    "id": 24,
+    "regulation_id": 1,
+    "pasal": 13,
+    "ayat": "2",
+    "text": "Bank menyampaikan permohonan izin penyelenggaraan \nLayanan Digital sebagaimana dimaksud pada ayat (1) \nkepada Otoritas Jasa Keuangan disertai dengan pernyataan \nyang ditandatangani oleh direktur yang membawahkan \nfungsi kepatuhan Bank dan direktur yang bertanggung \njawab atas Layanan Digital mengacu pada dokumen \nPernyataan Bank atas Penyelenggaraan Layanan Digital \ntercantum dalam Lampiran II yang merupakan bagian tidak \nterpisahkan dari Peraturan Otoritas Jasa Keuangan ini."
+  },
+  {
+    "id": 25,
+    "regulation_id": 1,
+    "pasal": 13,
+    "ayat": "3",
+    "text": "Penyampaian permohonan izin sebagaimana dimaksud pada \nayat (1) harus dilengkapi dengan hasil pemeriksaan dari \npihak independen untuk memberikan pendapat atas: \na. \nkarakteristik produk; \nb. \nkecukupan pengamanan sistem TI terkait produk; dan \n\n- 6 -  \n \nc. \nkepatuhan terhadap ketentuan peraturan perundangundangan di Indonesia, dan/atau praktik atau standar \nyang berlaku secara nasional maupun internasional."
+  },
+  {
+    "id": 26,
+    "regulation_id": 1,
+    "pasal": 13,
+    "ayat": "4",
+    "text": "Hasil pemeriksaan dari pihak independen sebagaimana \ndimaksud pada ayat (3) dilakukan oleh: \na. \npihak independen di luar Bank, untuk Layanan Digital \nyang baru pertama kali diterbitkan oleh Bank; dan \nb. \npihak independen di intern Bank, untuk penambahan \nfitur pada Layanan Digital yang telah ada dan dapat \nmenambah atau meningkatkan eksposur risiko."
+  },
+  {
+    "id": 27,
+    "regulation_id": 1,
+    "pasal": 13,
+    "ayat": "5",
+    "text": "Bank \nmenyampaikan \npermohonan \nizin \nsebagaimana \ndimaksud pada ayat (1) secara daring melalui sistem \nperizinan dan registrasi terintegrasi Otoritas Jasa Keuangan."
+  },
+  {
+    "id": 28,
+    "regulation_id": 1,
+    "pasal": 13,
+    "ayat": "6",
+    "text": "Dalam hal sarana penyampaian sebagaimana dimaksud \npada ayat (5) belum tersedia, penyampaian dilakukan \nmelalui sistem pelaporan Otoritas Jasa Keuangan untuk \nlaporan tidak terstruktur kepada: \na. \nDepartemen Pengawasan Bank terkait atau Kantor \nOtoritas Jasa Keuangan di Jakarta, bagi Bank yang \nberkantor pusat di wilayah provinsi Daerah Khusus \nIbukota Jakarta atau provinsi Banten; atau \nb. \nKantor Otoritas Jasa Keuangan setempat, bagi Bank \nyang berkantor pusat di luar wilayah provinsi Daerah \nKhusus Ibukota Jakarta atau provinsi Banten. \n \nBagian Keempat \nKerja Sama dalam Penyelenggaraan Layanan Digital"
+  },
+  {
+    "id": 29,
+    "regulation_id": 1,
+    "pasal": 14,
+    "ayat": "1",
+    "text": "Mitra Bank sebagaimana dimaksud dalam Pasal 2 ayat (1) \nhuruf b dalam kerja sama penyelenggaraan Layanan Digital \ndapat berupa LJK atau nonLJK."
+  },
+  {
+    "id": 30,
+    "regulation_id": 1,
+    "pasal": 14,
+    "ayat": "2",
+    "text": "Bank wajib memastikan mitra Bank sebagaimana dimaksud \npada ayat (1) yang berupa penyedia layanan keuangan \nberbasis TI telah memperoleh izin dari Otoritas Jasa \nKeuangan atau  otoritas lain yang berwenang sesuai dengan \nketentuan peraturan perundang-undangan."
+  },
+  {
+    "id": 31,
+    "regulation_id": 1,
+    "pasal": 15,
+    "ayat": null,
+    "text": "Dalam melakukan kerja sama dengan mitra Bank sebagaimana \ndimaksud dalam Pasal 14 ayat (1), Bank dapat membuka akses \ndata dan informasi nasabah dan/atau calon nasabah kepada \nmitra Bank berdasarkan persetujuan dan untuk kepentingan \nnasabah dan/atau calon nasabah melalui suatu sistem atau \naplikasi, \ndengan \nmemperhatikan \nketentuan \nperaturan \nperundang-undangan mengenai pelindungan data pribadi."
+  },
+  {
+    "id": 32,
+    "regulation_id": 1,
+    "pasal": 16,
+    "ayat": "1",
+    "text": "Bank sebagaimana dimaksud dalam Pasal 2 ayat (1) huruf b \ndalam menyelenggarakan Layanan Digital wajib memiliki: \na. \nkebijakan dan prosedur dalam penentuan mitra Bank; \ndan \nb. \nperjanjian kerja sama secara tertulis dengan mitra \nBank yang disusun dengan menggunakan Bahasa \nIndonesia. \n\n- 7 -"
+  },
+  {
+    "id": 33,
+    "regulation_id": 1,
+    "pasal": 16,
+    "ayat": "2",
+    "text": "Kebijakan dan prosedur dalam penentuan mitra Bank \nsebagaimana dimaksud pada ayat (1) huruf a wajib memuat \npaling sedikit: \na. \nkriteria mitra Bank; \nb. \nproses uji tuntas terhadap calon mitra Bank; \nc. \nproses pemilihan calon mitra Bank; \nd. \ntata cara melakukan hubungan kerja sama dengan \nmitra Bank; \ne. \nproses manajemen risiko dalam hubungan kerja sama \ndengan mitra Bank, termasuk aspek pelindungan data \nnasabah dalam proses pertukaran data dengan mitra \nBank; dan \nf. \ntata cara melakukan penghentian kerja sama dengan \nmitra Bank, termasuk mekanisme penghapusan data \nnasabah yang dipertukarkan sebelumnya."
+  },
+  {
+    "id": 34,
+    "regulation_id": 1,
+    "pasal": 16,
+    "ayat": "3",
+    "text": "Perjanjian kerja sama secara tertulis sebagaimana dimaksud \npada ayat (1) huruf b wajib memuat paling sedikit: \na. \nhak dan kewajiban; \nb. \nruang lingkup layanan dan produk yang ditawarkan; \nc. \njangka waktu pelaksanaan kerja sama dan mekanisme \nperpanjangan; \nd. \npemanfaatan data nasabah sesuai ketentuan peraturan \nperundang-undangan \nmengenai \npelindungan \ndata \npribadi; \ne. \nprinsip resiprokal dalam pemanfaatan data nasabah; \nf. \ntanggung jawab atas keamanan data nasabah; \ng. \nklausul yang menyatakan Bank tidak menanggung atau \nturut menanggung risiko yang timbul dari produk \ndan/atau jasa yang ditawarkan oleh mitra Bank melalui \nLayanan Digital; \nh. \nsyarat dan tata cara perubahan perjanjian kerja sama; \ni. \npenetapan sanksi dan mekanisme pengenaan sanksi; \nj. \nkondisi dan tata cara penghentian perjanjian kerja \nsama, \ntermasuk \nmekanisme \npenghapusan \ndata \nnasabah \nyang \ndipertukarkan \nsebelumnya \nsesuai \ndengan persetujuan nasabah; dan \nk. \ntata cara penyelesaian perselisihan."
+  },
+  {
+    "id": 35,
+    "regulation_id": 1,
+    "pasal": 16,
+    "ayat": "4",
+    "text": "Bank \ndilarang \nmenyediakan \nakses \nterhadap \nproduk \ndan/atau jasa milik mitra Bank selain yang dicantumkan \ndalam perjanjian kerja sama sebagaimana dimaksud pada \nayat (1) huruf b."
+  },
+  {
+    "id": 36,
+    "regulation_id": 1,
+    "pasal": 17,
+    "ayat": "1",
+    "text": "Bank dilarang menanggung atau turut menanggung risiko \nyang timbul dari produk dan/atau jasa milik mitra Bank \ndalam menyelenggarakan Layanan Digital oleh Bank \nberdasarkan perjanjian kerja sama antara Bank dan mitra \nBank."
+  },
+  {
+    "id": 37,
+    "regulation_id": 1,
+    "pasal": 17,
+    "ayat": "2",
+    "text": "Penggunaan logo dan/atau atribut Bank dalam dokumen \npemasaran hanya bertujuan untuk menunjukkan kerja \nsama antara Bank dan mitra Bank sesuai dengan dokumen \nperjanjian kerja sama. \n \n \n \n\n- 8 -  \n \nBagian Kelima \nUnit dan Fungsi yang Menangani Penyelenggaraan  \nLayanan Digital"
+  },
+  {
+    "id": 38,
+    "regulation_id": 1,
+    "pasal": 18,
+    "ayat": "1",
+    "text": "Bank yang menyelenggarakan Layanan Digital wajib \nmembentuk unit atau fungsi yang bertugas menangani \npenyelenggaraan Layanan Digital."
+  },
+  {
+    "id": 39,
+    "regulation_id": 1,
+    "pasal": 18,
+    "ayat": "2",
+    "text": "Unit atau fungsi yang menangani penyelenggaraan Layanan \nDigital sebagaimana dimaksud pada ayat (1) memiliki tugas \npaling sedikit: \na. \nmenyusun \nkebijakan, \nstandar, \ndan \nprosedur \npenyelenggaraan Layanan Digital; \nb. \nmemastikan \nkesesuaian \nantara \npenyelenggaraan \nLayanan Digital dengan rencana strategis kegiatan \nusaha Bank; \nc. \nmemantau pelaksanaan kerja sama dengan mitra Bank \ndalam penyelenggaraan Layanan Digital; \nd. \nmemantau data transaksi keuangan Layanan Digital; \ne. \nmemastikan efektivitas langkah yang digunakan dalam \nmenyelenggarakan Layanan Digital; \nf. \nmemantau kendala dan permasalahan yang muncul \ndari penyelenggaraan Layanan Digital; dan \ng. \nmemastikan kecukupan dan alokasi sumber daya \nterkait Layanan Digital yang dimiliki Bank."
+  },
+  {
+    "id": 40,
+    "regulation_id": 1,
+    "pasal": 19,
+    "ayat": "1",
+    "text": "Bank yang melanggar ketentuan sebagaimana dimaksud \ndalam Pasal 5 ayat (1), ayat (6), ayat (7), Pasal 7 ayat (2), \nPasal 8, Pasal 9 ayat (1), Pasal 14 ayat (2), Pasal 16, Pasal 17 \nayat (1), dan/atau Pasal 18 ayat (1), dikenai sanksi \nadministratif berupa teguran tertulis."
+  },
+  {
+    "id": 41,
+    "regulation_id": 1,
+    "pasal": 19,
+    "ayat": "2",
+    "text": "Dalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (1) dan tetap melanggar \nketentuan sebagaimana dimaksud dalam Pasal 5 ayat (1), \nayat (6), ayat (7), Pasal 7 ayat (2), Pasal 8, Pasal 9 ayat (1), \nPasal 14 ayat (2), Pasal 16, Pasal 17 ayat (1), dan/atau Pasal \n18 ayat (1), Bank dikenai sanksi administratif berupa: \na. \npembekuan Layanan Digital tertentu; \nb. \nlarangan untuk menyelenggarakan Layanan Digital \nbaru; dan/atau \nc. \npenurunan tingkat kesehatan Bank.    \n \nBAB III  \nPEMANFAATAN TI \n \nBagian Kesatu  \nUmum"
+  },
+  {
+    "id": 42,
+    "regulation_id": 1,
+    "pasal": 20,
+    "ayat": "1",
+    "text": "Bank yang menyelenggarakan Layanan Digital wajib \nmenerapkan ketentuan penyelenggaraan TI sesuai dengan \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenyelenggaraan TI oleh Bank."
+  },
+  {
+    "id": 43,
+    "regulation_id": 1,
+    "pasal": 20,
+    "ayat": "2",
+    "text": "Bank yang tidak melaksanakan kewajiban sebagaimana \ndimaksud pada ayat (1) dikenai sanksi administratif sesuai \n\n- 9 -  \n \ndengan Peraturan Otoritas Jasa Keuangan mengenai \npenyelenggaraan TI oleh Bank."
+  },
+  {
+    "id": 44,
+    "regulation_id": 1,
+    "pasal": 21,
+    "ayat": "1",
+    "text": "Bank wajib menerapkan prinsip pengendalian pengamanan \ndata dan transaksi nasabah dari Layanan Digital pada setiap \nsistem elektronik yang digunakan oleh Bank."
+  },
+  {
+    "id": 45,
+    "regulation_id": 1,
+    "pasal": 21,
+    "ayat": "2",
+    "text": "Penerapan prinsip pengendalian pengamanan data dan \ntransaksi nasabah sebagaimana dimaksud pada ayat (1) \nwajib mencakup paling sedikit prinsip: \na. \nkerahasiaan;  \nb. \nintegritas;  \nc. \nketersediaan;  \nd. \nautentikasi;  \ne. \ntidak terbantahkan;  \nf. \npengendalian otorisasi dalam sistem, pangkalan data, \ndan aplikasi;  \ng. \npemisahan tugas dan tanggung jawab;  \nh. \npemeliharaan jejak audit; dan \ni. \nretensi data, termasuk penghapusan dan pemusnahan. \n \nBagian Kedua  \nTanda Tangan Elektronik"
+  },
+  {
+    "id": 46,
+    "regulation_id": 1,
+    "pasal": 22,
+    "ayat": "1",
+    "text": "Bank dapat memanfaatkan penggunaan tanda tangan \nelektronik dalam penyelenggaraan Layanan Digital sesuai \ndengan ketentuan peraturan perundang-undangan."
+  },
+  {
+    "id": 47,
+    "regulation_id": 1,
+    "pasal": 22,
+    "ayat": "2",
+    "text": "Dalam hal Bank memanfaatkan penggunaan tanda tangan \nelektronik dalam penyelenggaraan Layanan Digital, Bank \nwajib memiliki kebijakan dan prosedur dalam penggunaan \ntanda tangan elektronik."
+  },
+  {
+    "id": 48,
+    "regulation_id": 1,
+    "pasal": 22,
+    "ayat": "3",
+    "text": "Kebijakan dan prosedur dalam penggunaan tanda tangan \nelektronik sebagaimana dimaksud pada ayat (2) wajib \nmemuat paling sedikit: \na. \nidentifikasi \ndan \nklasifikasi \ndokumen \ndan/atau \ntransaksi yang dapat menggunakan tanda tangan \nelektronik; \nb. \ntata cara penggunaan termasuk verifikasi tanda tangan \nelektronik; dan \nc. \nproses manajemen risiko atas penggunaan tanda \ntangan elektronik. \n \nBagian Ketiga  \nAdopsi TI dalam Mendukung Fungsi Bisnis Bank"
+  },
+  {
+    "id": 49,
+    "regulation_id": 1,
+    "pasal": 23,
+    "ayat": "1",
+    "text": "Bank melakukan adopsi TI dalam penyelenggaraan Layanan \nDigital secara bertanggung jawab."
+  },
+  {
+    "id": 50,
+    "regulation_id": 1,
+    "pasal": 23,
+    "ayat": "2",
+    "text": "Pelaksanaan adopsi TI sebagaimana dimaksud pada ayat (1) \nharus memperhatikan paling sedikit: \na. \nketahanan siber;  \nb. \nkeamanan siber; \nc. \ntransparansi; \nd. \ninteroperabilitas; \ne. \nkemampuan dalam pelaksanaan audit; \n\n- 10 -  \n \nf. \nkesetaraan; dan \ng. \nprivasi."
+  },
+  {
+    "id": 51,
+    "regulation_id": 1,
+    "pasal": 24,
+    "ayat": "1",
+    "text": "Bank yang melanggar ketentuan sebagaimana dimaksud \ndalam Pasal 21, Pasal 22 ayat (2), dan/atau ayat (3) dikenai \nsanksi administratif berupa teguran tertulis."
+  },
+  {
+    "id": 52,
+    "regulation_id": 1,
+    "pasal": 24,
+    "ayat": "2",
+    "text": "Dalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (1) dan tetap melanggar \nketentuan sebagaimana dimaksud dalam Pasal 21, Pasal 22 \nayat"
+  },
+  {
+    "id": 53,
+    "regulation_id": 1,
+    "pasal": 24,
+    "ayat": "2",
+    "text": ", \ndan/atau \nayat"
+  },
+  {
+    "id": 54,
+    "regulation_id": 1,
+    "pasal": 24,
+    "ayat": "3",
+    "text": ", \nBank \ndikenai \nsanksi \nadministratif berupa: \na. \npembekuan Layanan Digital tertentu; \nb. \nlarangan untuk menyelenggarakan Layanan Digital \nbaru; dan/atau \nc. \npenurunan tingkat kesehatan Bank. \n \nBAB IV  \nPELINDUNGAN NASABAH DAN PELINDUNGAN DATA PRIBADI \n \nBagian Kesatu \nPelindungan Nasabah"
+  },
+  {
+    "id": 55,
+    "regulation_id": 1,
+    "pasal": 25,
+    "ayat": "1",
+    "text": "Bank penyelenggara Layanan Digital menerapkan prinsip \npelindungan konsumen sesuai dengan ketentuan peraturan \nperundang-undangan mengenai pelindungan konsumen \ndan masyarakat di sektor jasa keuangan."
+  },
+  {
+    "id": 56,
+    "regulation_id": 1,
+    "pasal": 25,
+    "ayat": "2",
+    "text": "Mekanisme dan tata cara penerapan prinsip pelindungan \nkonsumen \nsebagaimana \ndimaksud \npada \nayat"
+  },
+  {
+    "id": 57,
+    "regulation_id": 1,
+    "pasal": 25,
+    "ayat": "1",
+    "text": "dilaksanakan sesuai dengan Peraturan Otoritas Jasa \nKeuangan \nmengenai \npelindungan \nkonsumen \ndan \nmasyarakat di sektor jasa keuangan."
+  },
+  {
+    "id": 58,
+    "regulation_id": 1,
+    "pasal": 26,
+    "ayat": null,
+    "text": "Bank penyelenggara Layanan Digital wajib memiliki fungsi dan \nmekanisme penanganan yang mampu merespon pertanyaan \ndan/atau \nmenindaklanjuti \npengaduan \nnasabah \ndengan \nberoperasi selama 24 (dua puluh empat) jam dalam sehari."
+  },
+  {
+    "id": 59,
+    "regulation_id": 1,
+    "pasal": 27,
+    "ayat": null,
+    "text": "Bank wajib menjelaskan kepada nasabah tujuan penggunaan \nlogo dan/atau atribut Bank oleh mitra Bank sebagaimana \ndimaksud dalam Pasal 17 ayat (2)."
+  },
+  {
+    "id": 60,
+    "regulation_id": 1,
+    "pasal": 28,
+    "ayat": null,
+    "text": "Bank wajib memberikan edukasi kepada nasabah untuk \nmenerapkan faktor autentikasi yang memadai. \n \nBagian Kedua \nPelindungan Data Pribadi"
+  },
+  {
+    "id": 61,
+    "regulation_id": 1,
+    "pasal": 29,
+    "ayat": "1",
+    "text": "Bank penyelenggara Layanan Digital wajib menerapkan \nprinsip \npelindungan \ndata \npribadi \ndalam \nmelakukan \npemrosesan \ndata \npribadi \nsesuai \ndengan \nketentuan \n\n- 11 -  \n \nperaturan perundang-undangan mengenai pelindungan \ndata pribadi."
+  },
+  {
+    "id": 62,
+    "regulation_id": 1,
+    "pasal": 29,
+    "ayat": "2",
+    "text": "Dalam melakukan pemrosesan data pribadi, Bank wajib \nterlebih dahulu memperoleh persetujuan dari nasabah \ndan/atau calon nasabah untuk tujuan tertentu sebagai \ndasar pemrosesan data pribadi, yang dilakukan sesuai \ndengan \nketentuan \nperaturan \nperundang-undangan \nmengenai pelindungan data pribadi."
+  },
+  {
+    "id": 63,
+    "regulation_id": 1,
+    "pasal": 29,
+    "ayat": "3",
+    "text": "Bank \ndalam \nmenyediakan \nLayanan \nDigital \nwajib \nmenyediakan fitur bagi nasabah untuk mengelola hak akses \nmitra Bank terhadap data dan informasi nasabah secara \nmandiri."
+  },
+  {
+    "id": 64,
+    "regulation_id": 1,
+    "pasal": 30,
+    "ayat": "1",
+    "text": "Bank yang melanggar ketentuan sebagaimana dimaksud \ndalam Pasal 26, Pasal 27, Pasal 28, dan/atau Pasal 29, \ndikenai sanksi administratif berupa teguran tertulis."
+  },
+  {
+    "id": 65,
+    "regulation_id": 1,
+    "pasal": 30,
+    "ayat": "2",
+    "text": "Dalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (1) dan tetap melanggar \nketentuan sebagaimana dimaksud dalam Pasal 26, Pasal 27, \nPasal 28, dan/atau Pasal 29, Bank dikenai sanksi \nadministratif berupa: \na. \npembekuan Layanan Digital tertentu; \nb. \nlarangan untuk menyelenggarakan Layanan Digital \nbaru; dan/atau \nc. \npenurunan tingkat kesehatan Bank. \n \nBAB V \nPELAPORAN"
+  },
+  {
+    "id": 66,
+    "regulation_id": 1,
+    "pasal": 31,
+    "ayat": null,
+    "text": "Bank wajib menyampaikan daftar mitra Bank dalam melakukan \nkerja sama Layanan Digital sebagaimana dimaksud dalam  \nPasal 14 ayat (1) kepada Otoritas Jasa Keuangan sebagai bagian \ndari laporan kondisi terkini penyelenggaraan TI Bank."
+  },
+  {
+    "id": 67,
+    "regulation_id": 1,
+    "pasal": 32,
+    "ayat": "1",
+    "text": "Bank yang telah memperoleh izin untuk menyelenggarakan \nLayanan Digital yang memenuhi kriteria produk baru wajib \nmenyampaikan laporan realisasi penyelenggaraan Layanan \nDigital kepada Otoritas Jasa Keuangan paling lama 5 (lima) \nhari kerja setelah implementasi disertai dengan dokumen \npendukung, mengacu pada dokumen Laporan Realisasi \nPenyelenggaraan \nLayanan \nDigital \ntercantum \ndalam \nLampiran III yang merupakan bagian tidak terpisahkan dari \nPeraturan Otoritas Jasa Keuangan ini."
+  },
+  {
+    "id": 68,
+    "regulation_id": 1,
+    "pasal": 32,
+    "ayat": "2",
+    "text": "Bank \nwajib \nmenyampaikan \nlaporan \nevaluasi \npenyelenggaraan Layanan Digital yang memenuhi kriteria \nproduk baru kepada Otoritas Jasa Keuangan paling lama 3 \n(tiga) bulan setelah implementasi, mengacu pada dokumen \nLaporan \nEvaluasi \nPenyelenggaraan \nLayanan \nDigital \ntercantum dalam Lampiran IV yang merupakan bagian tidak \nterpisahkan dari Peraturan Otoritas Jasa Keuangan ini. \n \n \n \n\n- 12 -"
+  },
+  {
+    "id": 69,
+    "regulation_id": 1,
+    "pasal": 33,
+    "ayat": "1",
+    "text": "Bank menyampaikan laporan realisasi Layanan Digital \nsebagaimana dimaksud dalam Pasal 32 ayat (1) secara \ndaring melalui sistem perizinan dan registrasi terintegrasi \nOtoritas Jasa Keuangan."
+  },
+  {
+    "id": 70,
+    "regulation_id": 1,
+    "pasal": 33,
+    "ayat": "2",
+    "text": "Dalam hal sarana penyampaian sebagaimana dimaksud \npada ayat (1) belum tersedia, penyampaian dilakukan \nmelalui sistem pelaporan Otoritas Jasa Keuangan untuk \nlaporan tidak terstruktur ditujukan kepada: \na. \nDepartemen Pengawasan Bank terkait atau Kantor \nOtoritas Jasa Keuangan di Jakarta, bagi Bank yang \nberkantor pusat di wilayah provinsi Daerah Khusus \nIbukota Jakarta atau provinsi Banten; atau \nb. \nKantor Otoritas Jasa Keuangan setempat, bagi Bank \nyang berkantor pusat di luar wilayah provinsi Daerah \nKhusus Ibukota Jakarta atau provinsi Banten."
+  },
+  {
+    "id": 71,
+    "regulation_id": 1,
+    "pasal": 34,
+    "ayat": "1",
+    "text": "Bank menyampaikan laporan evaluasi penyelenggaraan \nLayanan Digital sebagaimana dimaksud dalam Pasal 32  \nayat (2) sebagai laporan tidak terstruktur secara daring \nmelalui sistem pelaporan Otoritas Jasa Keuangan."
+  },
+  {
+    "id": 72,
+    "regulation_id": 1,
+    "pasal": 34,
+    "ayat": "2",
+    "text": "Tata cara penyampaian laporan sebagaimana dimaksud \npada ayat (1) dilaksanakan sesuai dengan Peraturan \nOtoritas Jasa Keuangan mengenai pelaporan bank melalui \nsistem pelaporan Otoritas Jasa Keuangan."
+  },
+  {
+    "id": 73,
+    "regulation_id": 1,
+    "pasal": 34,
+    "ayat": "3",
+    "text": "Penyampaian laporan sebagaimana dimaksud pada ayat (1) \nditujukan kepada: \na. \nDepartemen Pengawasan Bank terkait atau Kantor \nOtoritas Jasa Keuangan di Jakarta, bagi Bank yang \nberkantor pusat di wilayah provinsi Daerah Khusus \nIbukota Jakarta atau provinsi Banten; atau \nb. \nKantor Otoritas Jasa Keuangan setempat, bagi Bank \nyang berkantor pusat di luar wilayah provinsi Daerah \nKhusus Ibukota Jakarta atau provinsi Banten."
+  },
+  {
+    "id": 74,
+    "regulation_id": 1,
+    "pasal": 35,
+    "ayat": null,
+    "text": "Bank \nyang \nterlambat \nmenyampaikan \nlaporan \nrealisasi \nsebagaimana dimaksud dalam Pasal 32 ayat (1) dikenai sanksi \nadministratif sesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai penyelenggaraan produk bank umum."
+  },
+  {
+    "id": 75,
+    "regulation_id": 1,
+    "pasal": 36,
+    "ayat": "1",
+    "text": "Bank yang terlambat menyampaikan laporan evaluasi \nsebagaimana dimaksud dalam Pasal 32 ayat (2) dikenai \nsanksi administratif berupa denda sebesar Rp1.000.000,00 \n(satu juta rupiah) per hari kerja keterlambatan per laporan \ndan paling banyak Rp50.000.000,00 (lima puluh juta rupiah) \nper laporan."
+  },
+  {
+    "id": 76,
+    "regulation_id": 1,
+    "pasal": 36,
+    "ayat": "2",
+    "text": "Pengenaan sanksi administratif sebagaimana dimaksud \npada ayat (1) tidak menghilangkan kewajiban penyampaian \nlaporan bagi Bank yang belum menyampaikan laporan \nsebagaimana dimaksud dalam Pasal 32 ayat (2)."
+  },
+  {
+    "id": 77,
+    "regulation_id": 1,
+    "pasal": 36,
+    "ayat": "3",
+    "text": "Bank yang menyampaikan laporan sebagaimana dimaksud \ndalam Pasal 32 ayat (2), namun: \na. \ndinilai tidak lengkap; dan/atau \n\n- 13 -  \n \nb. \ntidak dilampiri dengan dokumen dan informasi yang \nmaterial, sesuai dengan format yang ditentukan,  \ndikenai sanksi administratif berupa teguran tertulis."
+  },
+  {
+    "id": 78,
+    "regulation_id": 1,
+    "pasal": 36,
+    "ayat": "4",
+    "text": "Bank yang tidak memperbaiki laporan evaluasi dalam \njangka waktu yang telah ditetapkan pada teguran tertulis \nsebagaimana dimaksud pada ayat (3), dikenai sanksi \nadministratif berupa denda sebesar Rp50.000.000,00 (lima \npuluh juta rupiah). \n \nBAB VI \nKETENTUAN PERALIHAN"
+  },
+  {
+    "id": 79,
+    "regulation_id": 1,
+    "pasal": 37,
+    "ayat": "1",
+    "text": "Bank yang telah memiliki layanan perbankan elektronik dan \nlayanan perbankan digital sebelum berlakunya Peraturan \nOtoritas \nJasa \nKeuangan \nini, \nharus \nmenyesuaikan \ninfrastruktur TI pada Layanan Digital sesuai dengan \nketentuan dalam Peraturan Otoritas Jasa Keuangan ini \npaling lama 1 (satu) tahun sejak berlakunya Peraturan \nOtoritas Jasa Keuangan ini."
+  },
+  {
+    "id": 80,
+    "regulation_id": 1,
+    "pasal": 37,
+    "ayat": "2",
+    "text": "Bank harus menyesuaikan kebijakan, standar, dan prosedur \nterkait penyelenggaraan Layanan Digital sesuai dengan \nketentuan dalam Peraturan Otoritas Jasa Keuangan ini \npaling lama 3 (tiga) bulan sejak berlakunya Peraturan \nOtoritas Jasa Keuangan ini."
+  },
+  {
+    "id": 81,
+    "regulation_id": 1,
+    "pasal": 38,
+    "ayat": null,
+    "text": "Proses permohonan izin penyelenggaraan layanan perbankan \nelektronik dan layanan perbankan digital yang sedang diajukan \nsebelum berlakunya Peraturan Otoritas Jasa Keuangan ini, tetap \ndilakukan sesuai dengan Peraturan Otoritas Jasa Keuangan \nNomor 12/POJK.03/2018 tentang Penyelenggaraan Layanan \nPerbankan Digital oleh Bank Umum (Lembaran Negara Republik \nIndonesia Tahun 2018 Nomor 127, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 6235) dan Peraturan Otoritas Jasa \nKeuangan Nomor 13/POJK.03/2021 tentang Penyelenggaraan \nProduk Bank Umum (Lembaran Negara Republik Indonesia \nTahun 2021 Nomor 164, Tambahan Lembaran Negara Republik \nIndonesia Nomor 6701). \n \nBAB VII \nKETENTUAN PENUTUP"
+  },
+  {
+    "id": 82,
+    "regulation_id": 1,
+    "pasal": 39,
+    "ayat": null,
+    "text": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai berlaku, \nPeraturan Otoritas Jasa Keuangan Nomor 12/POJK.03/2018 \ntentang Penyelenggaraan Layanan Perbankan Digital oleh Bank \nUmum (Lembaran Negara Republik Indonesia Tahun 2018  \nNomor 127, Tambahan Lembaran Negara Republik Indonesia \nNomor 6235), dicabut dan dinyatakan tidak berlaku."
+  },
+  {
+    "id": 83,
+    "regulation_id": 1,
+    "pasal": 40,
+    "ayat": null,
+    "text": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal \ndiundangkan. \n \n\n- 14 -  \n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \n \n \n \nMufli Asmawidjaja \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini dengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta  \npada tanggal 19 Desember 2023  \n \nKETUA DEWAN KOMISIONER  \nOTORITAS JASA KEUANGAN  \nREPUBLIK INDONESIA,  \n \n \n \n \n     MAHENDRA SIREGAR \n \nDiundangkan di Jakarta  \npada tanggal 22 Desember 2023  \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA  \nREPUBLIK INDONESIA,  \n \n \n \n \nYASONNA H. LAOLY  \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2023 NOMOR 39/OJK \n \n \n \nttd \nttd \nttd"
+  }
+]
